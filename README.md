@@ -28,10 +28,15 @@
   </a>
 
 <h1 align="center">Prom Planner</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Keep+Your+Prom+Organized;For+Students;For+Prom+Committees;For+Vendors;For+Sponsors"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
   <p align="center">
-Prom Planner is a collection of handy digital tools that the Prom Committee at your school can use to keep your Prom organized much more efficiently than before. From Seating Plans to Ticket Tracking to Menu Display and more, Prom Planner will keep your committee focused and on track, so that you can spend your time working to make your Prom the best it can be, and not on all the boring details.
+Welcome to Prom Planner, the new name in digital Prom organization. Our mission is simple…to enable Prom Committees to save time & energy in the previously disorganized task of keeping your Prom organized! From tracking Attendees and their Ticket Status all the way to who they’re sitting with, to keeping students informed, and to keeping all stakeholders properly updated (including Administration), Prom Planner has something for everyone.
   </p>
 </div>
 
@@ -41,7 +46,14 @@ Prom Planner is a collection of handy digital tools that the Prom Committee at y
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+  <p align="center">
+Prom Planner is designed to be an organizational tool for Prom Committees all over the world. No longer to you have to suffer with spreadsheets and paper, Prom Planner gives you a state-of-the-art digital platform in which to keep all your Prom Committee activities organized, so that your schools big events run that much more smoothly.
+  </p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### Built With
 
