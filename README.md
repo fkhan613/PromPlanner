@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/Prom_VP_Line.png" alt="PromPlanner Logo" width="400" height="275">
+    <img src="images/Prom_VP_Line.png" alt="PromPlanner Logo" width="350" height="250">
   </a>
 
 <h1 align="center">Prom Planner</h1>
