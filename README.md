@@ -28,12 +28,14 @@
   </a>
 
 <h1 align="center">Prom Planner</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
   <p align="center">
 Prom Planner is a collection of handy digital tools that the Prom Committee at your school can use to keep your Prom organized much more efficiently than before. From Seating Plans to Ticket Tracking to Menu Display and more, Prom Planner will keep your committee focused and on track, so that you can spend your time working to make your Prom the best it can be, and not on all the boring details.
   </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <!-- ABOUT THE PROJECT -->
