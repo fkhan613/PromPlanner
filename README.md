@@ -44,7 +44,7 @@ Welcome to Prom Planner, the new name in digital Prom organization. Our mission 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> About The Project
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -55,7 +55,7 @@ Prom Planner is designed to be an organizational tool for Prom Committees all ov
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### Built With
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
