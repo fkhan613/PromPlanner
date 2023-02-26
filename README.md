@@ -66,6 +66,10 @@ Prom Planner is designed to be an organizational tool for Prom Committees all ov
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
+<p align="center">
+--> The code is unfortunately in a private repository <--
+</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
