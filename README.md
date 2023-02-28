@@ -109,7 +109,7 @@ Our first-in-class Bid Submission system is also setup for After-Proms as well. 
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="center">
---> The code is unfortunately in a private repository <--
+--> The source code for Prom Planner is confidential due to security and legal reasons <--
 </p>
 
 
