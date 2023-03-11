@@ -61,7 +61,7 @@ Prom Planner is designed to be an organizational tool for Prom Committees all ov
   <h3>Sell Tickets</h3>
  <p>Any good Prom or Homecoming event relies on Ticket Sales to make things happen. Coming in a future release of Prom Planner, your Prom Committee will be able to sell Tickets to your Student Body right through our online portal. Even further, the money will go right into your very own PayPal account, without any extra transaction fees or hold up.
 
-THIS FEATURE COMING IN 2024</p>
+THIS FEATURE IS COMING IN 2024</p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <br><h2>For Students</h2> <br>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
